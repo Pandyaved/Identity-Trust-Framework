@@ -1,19 +1,19 @@
 # Identity-Trust-Framework
 
-- Problem
+## Problem
 Detect insider threats and suspicious user behavior.
 
-- Solution
+## Solution
 A risk-based identity trust framework that continuously monitors user activities, analyzes behavior patterns, assigns risk scores, and triggers MFA when high-risk actions are detected.
 
-- Features
+## Features
 - Insider Threat Detection
 - Behavioral Analysis
 - Risk Scoring
 - MFA Authentication
 - SIEM Monitoring
 
-- Technology Stack
+## Technology Stack
 - Python
 - Flask
 - MongoDB
@@ -21,5 +21,5 @@ A risk-based identity trust framework that continuously monitors user activities
 - Wireshark
 - AWS
 
-- Workflow
+## Workflow
 User Login → Monitoring → Risk Analysis → MFA (if needed) → Access
